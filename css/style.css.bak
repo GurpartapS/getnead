@@ -24,6 +24,12 @@
   height: 100%;
 }
 
+.quoteFormContainer p{
+	color:white;
+	font-size:225%;
+	font-weight:bold;
+}
+
 .quoteFormContainer .frame-short {
   height: 100%;
   margin-top: 5%;
@@ -86,8 +92,8 @@ li {
 }
 
 .form-signin {
-  width: 70%;
-  height: 100%;
+  width: 100%;
+  height: 60%;
 	font-size: 16px;
 	font-weight: 300;
   padding-left: 37px;
@@ -198,7 +204,7 @@ label {
 
 .form-signin input:focus, textarea:focus, .form-signup input:focus, textarea:focus {
     background: rgba(255,255,255,.1);
-    ;
+    
     border: none; 
     padding-right: 40px;
     transition: background .5s ease;
@@ -496,4 +502,44 @@ a.btn-goback:hover {
   cursor: pointer;
   fill: #1059FF;
   transform: rotate(180deg);
+}
+@media (max-width: 480px) {
+
+.quoteFormContainer {
+	margin-top:-20%;
+}
+
+.quoteFormContainer .frame {
+  height: 100%;
+  width: 100%;
+  background:rgba(169,169,169,0.8);
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: solid 1px rgba(255,255,255,.5);
+  border-radius: 5px;
+  box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
+  overflow: hidden;
+  transition: all .5s ease;
+}
+
+.quoteFormContainer p{
+	color:white;
+	font-size:125%;
+	font-weight:bold;
+}
+
+.form-signin input, .form-signup input {
+  font-size: 13px;
+  height:30px;
+}
+
+.quoteFormContainer .nav {
+  width: 100%;
+  height: 100%;
+  padding-top: 40px;
+  opacity: 1;
+  transition: all .5s ease;
+}
+
 }

@@ -1485,9 +1485,10 @@ fieldset[disabled] .btn-theme {
     [Top margin below 480px]
 ------------------------------------------------------------------*/
 @media (max-width: 480px) {
-	.quoteFormContainer .frame {
-  height: 250px;
-  width: 130px;
+
+.quoteFormContainer .frame {
+  height: 100%;
+  width: 100%;
   background:rgba(169,169,169,0.8);
   background-size: cover;
   margin-left: auto;
@@ -1499,6 +1500,11 @@ fieldset[disabled] .btn-theme {
   transition: all .5s ease;
 }
 
+.quoteFormContainer p{
+	color:white;
+	font-size:225%;
+	font-weight:bold;
+}
   .xs-margin-b-0 {
     margin-bottom: 0 !important;
   }

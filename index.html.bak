@@ -80,16 +80,16 @@
         <!--========== SLIDER ==========-->
         <div class="promo-block" >
         	<div class="row" style="height:400px;margin-top:-7%;">
-        			<div class="col-md-7 col-sm-1"></div>
+        			<div class="col-md-7"></div>
         			
-										<div class="col-md-4 col-sm-9" >
+										<div class="col-md-4 col-xs-12" >
 	                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
 <div class="quoteFormContainer">
   <div class="frame">
     <div class="nav">
       <ul class"links">
-        <li ><a class="btn" ><h2 style="color:white;">Request a Quote</h2></a></li>
+        <li ><a class="btn" ><p>Request a Quote</p></a></li>
         <li class="signup-inactive"></li>
       </ul>
     </div>
@@ -143,7 +143,7 @@
                     
             </div>-->
         </div>
-        <div class="col-md-1 col-sm-1"></div>
+        <div class="col-md-1"></div>
         <!--========== SLIDER ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
