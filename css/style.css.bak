@@ -39,7 +39,7 @@
 .quoteFormContainer .nav {
   width: 100%;
   height: 100%;
-  padding-top: 40px;
+  padding-top: 40px;sign
   opacity: 1;
   transition: all .5s ease;
 }
@@ -537,9 +537,32 @@ a.btn-goback:hover {
 .quoteFormContainer .nav {
   width: 100%;
   height: 100%;
-  padding-top: 40px;
+  padding-top: 20px;
   opacity: 1;
   transition: all .5s ease;
 }
+
+
+.form-signin {
+  width: 100%;
+  height: 50%;
+	font-size: 16px;
+	font-weight: 300;
+  padding-left: 37px;
+  padding-right: 37px;
+  padding-top: 0px;
+  margin-bottom:-15%;  
+  transition: opacity .5s ease, transform .5s ease;
+}
+
+.btn-signin {
+  float: left;
+  padding-top: 8px;
+  width: 100%;
+  height: 35px;
+	border: none;
+	border-radius: 20px;
+}
+
 
 }
