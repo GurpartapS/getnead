@@ -41,7 +41,8 @@
         	<div class="headerTop" >
 			<i class="fa fa-facebook socialcon" aria-hidden="true" style="color:#17bed2;float:right;margin-right:20px;font-size:20px;"></i>	
           <i class="fa fa-twitter socialIcon" aria-hidden="true" style="color:#17bed2;float:right;margin-right:20px;font-size:20px;"></i>	
-					<i class="fa fa-twitter socialIcon" aria-hidden="true" style="color:#17bed2;float:right;margin-right:20px;font-size:20px;margin-left:40px;"></i>	
+          
+					<i class="fa fa-instagram socialIcon" aria-hidden="true" style="color:#17bed2;float:right;margin-right:20px;font-size:20px;margin-left:40px;"></i>	
 			<button class="btn-signin ">Be a member</button>          
  			
  				<p>1800-GET-NEAD</p>
@@ -73,10 +74,10 @@
                         <div class="menu-container">
                             <ul class="nav navbar-nav navbar-nav-right">
                                 <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#body">Home</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#products">About</a></li>
                                 <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#service">Services</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#products">Why Nead</a></li>
+                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#about">About</a></li>
                                 <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Customers</a></li>
-                                <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#pricing">Pricing</a></li>
                                 <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#contact">Contact</a></li>
 																
                             </ul>
@@ -171,33 +172,33 @@
                 <div class="content-lg container">
                 	 <div class="row text-center margin-b-40">
                     <div class="col-sm-6 col-sm-offset-3">
-                        <h2>Our Services</h2	>
+                        <h2 style="color:#17bed2">Our Services</h2	>
                         <p>Non-Emergency Service Dispatch is one of the greatest service providers in north america.</p>
                     </div>
                 </div>
                     <div class="row row-space-2 margin-b-4">
                         <div class="col-sm-4 sm-margin-b-4">
-                            <div class="service" data-height="height">
+                            <div class="service wow fadeInDown" data-height="height">
                                 <div class="service-element">
                                     <i class="service-icon icon-heart"></i>
                                 </div>
                                 <div class="service-info">
                                     <h3>Ambulance</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <p class="margin-b-5">Sample text paragraph to be added here for more information</p>
                                 </div>
-                                <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" class="content-wrapper-link"></a>    
+                                <a href="#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-sm-4 sm-margin-b-4">
-                            <div class="service bg-color-base wow fadeInDown" data-height="height" data-wow-duration=".3" data-wow-delay=".1s">
+                            <div class="service wow fadeInDown" data-height="height" data-wow-duration=".3" data-wow-delay=".1s">
                                 <div class="service-element">
-                                    <i class="service-icon color-white icon-screen-tablet"></i>
+                                    <i class="service-icon icon-screen-tablet"></i>
                                 </div>
                                 <div class="service-info">
-                                    <h3 class="color-white">Bedside to Bedside</h3>
-                                    <p class="color-white margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <h3 class="">Bedside to Bedside</h3>
+                                    <p class="margin-b-5">Sample text paragraph to be added here for more information</p>
                                 </div>
-                                <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" class="content-wrapper-link"></a>    
+                                <a href="#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -207,9 +208,9 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Advance Booking</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <p class="margin-b-5">Sample text paragraph to be added here for more information</p>
                                 </div>
-                                <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" class="content-wrapper-link"></a>    
+                                <a href="#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                     </div>
@@ -223,9 +224,9 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Strair Chairs & Stretcher</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <p class="margin-b-5">Sample text paragraph to be added here for more information</p>
                                 </div>
-                                <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" class="content-wrapper-link"></a>    
+                                <a href="#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-sm-4 sm-margin-b-4">
@@ -235,9 +236,9 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Oxygen & First Aid</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <p class="margin-b-5">Sample text paragraph to be added here for more information</p>
                                 </div>
-                                <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" class="content-wrapper-link"></a>    
+                                <a href="#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -247,9 +248,9 @@
                                 </div>
                                 <div class="service-info">
                                     <h3>Coming Soon - Location Tracker</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <p class="margin-b-5">Sample text paragraph to be added here for more information</p>
                                 </div>
-                                <a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes" class="content-wrapper-link"></a>    
+                                <a href="#" class="content-wrapper-link"></a>    
                             </div>
                         </div>
                     </div>
@@ -263,7 +264,7 @@
             <div class="container content-lg">
                 <div class="row text-center margin-b-40">
                     <div class="col-sm-6 col-sm-offset-3">
-                        <h2>Why Nead</h2	>
+                        <h2 style="color:#17bed2">Why Nead</h2	>
                         <p>Non-Emergency Service Dispatch is one of the greatest service providers in north america.</p>
                     </div>
                 </div>
@@ -275,9 +276,9 @@
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="img/970x647/01.jpg" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".1s">
                         </div>
-                        <h4><a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">24x7 Service</a> </h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Read More</a>
+                        <h4><a href="#">24x7 Service</a> </h4>
+                        <p>Sample text paragraph to be added here for more information</p>
+                        <a class="link" href="#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
 
@@ -286,9 +287,9 @@
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="img/970x647/02.jpg" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".2s">
                         </div>
-                        <h4><a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Largest Fleet</a> </h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Read More</a>
+                        <h4><a href="#">Largest Fleet</a> </h4>
+                        <p>Sample text paragraph to be added here for more information</p>
+                        <a class="link" href="#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
 
@@ -297,9 +298,9 @@
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="img/970x647/03.jpg" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".3s">
                         </div>
-                        <h4><a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Fastest Service</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Read More</a>
+                        <h4><a href="#">Fastest Service</a></h4>
+                        <p>Sample text paragraph to be added here for more information</p>
+                        <a class="link" href="#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
                 </div>
@@ -310,9 +311,9 @@
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="img/970x647/04.jpg" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".1s">
                         </div>
-                        <h4><a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Quality Customer Service</a> </h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Read More</a>
+                        <h4><a href="#">Quality Customer Service</a> </h4>
+                        <p>Sample text paragraph to be added here for more information</p>
+                        <a class="link" href="#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
 
@@ -321,9 +322,9 @@
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="img/970x647/05.jpg" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".2s">
                         </div>
-                        <h4><a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Cost Effective</a> </h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Read More</a>
+                        <h4><a href="#">Cost Effective</a> </h4>
+                        <p>Sample text paragraph to be added here for more information</p>
+                        <a class="link" href="#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
 
@@ -332,9 +333,9 @@
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="img/970x647/06.jpg" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".3s">
                         </div>
-                        <h4><a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Besdside to Bedside Service</a> </h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
-                        <a class="link" href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Read More</a>
+                        <h4><a href="#">Besdside to Bedside Service</a> </h4>
+                        <p>Sample text paragraph to be added here for more information</p>
+                        <a class="link" href="#">Read More</a>
                     </div>
                     <!-- End Latest Products -->
                 </div>
@@ -354,11 +355,20 @@
             
         </div>
         <!-- End Products -->
+        
+        <!-- Promo Banner -->
+        <div id="about" class="promo-banner">
+            <div class="container-sm content-lg">
+                <h2 class="promo-banner-title" style="font-size:200%">Non-Emergency Ambulance Dispatch </h2><br>
+                <p class="promo-banner-text" style="font-size:120%">We are a dispatcher offering Non Emergency Ambulance Transportation services to the entire province of Ontario. Our call centre is open 24 hours per day, seven days per week to serve our customers in the most effective way. We are a dispatcher offering Non Emergency Ambulance Transportation services to the entire province of Ontario. Our call centre is open 24 hours per day, seven days per week to serve our customers in the most effective way. </p>
+            </div>
+        </div><br><br>
+        <!-- End Promo Banner -->
 <!-- Contact -->
         <div id="contact">
         	<div class="row text-center margin-b-40">
                     <div class="col-sm-6 col-sm-offset-3">
-                        <h2>Our Geographical Coverage</h2	>
+                        <h2 style="color:#17bed2">Our Geographical Coverage</h2	>
                         <p>Non-Emergency Service Dispatch is one of the greatest service providers in north america.</p>
                     </div>
                 </div>
@@ -375,18 +385,82 @@
     
         <!-- End Service -->
 
-        <!-- Promo Banner -->
-        <div class="promo-banner">
-            <div class="container-sm content-lg">
-                <h2 class="promo-banner-title">Displaying the Result</h2>
-                <p class="promo-banner-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+<!--
+    
+        <div id="pricing">
+            <div class="bg-color-sky-light">
+                <div class="content-lg container">
+                    <div class="row row-space-2">
+                        <div class="col-sm-4 sm-margin-b-4">
+    
+                            <div class="pricing">
+                                <div class="margin-b-30">
+                                    <i class="pricing-icon icon-chemistry"></i>
+                                    <h3>Starter Kit <span> - $</span> 49</h3>
+                                    <p>Sample text paragraph to be added here for more information</p>
+                                </div>
+                                <ul class="list-unstyled pricing-list margin-b-50">
+                                    <li class="pricing-list-item">Basic Features</li>
+                                    <li class="pricing-list-item">Up to 5 products</li>
+                                    <li class="pricing-list-item">50 Users Panels</li>
+                                </ul>
+                                <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
+                            </div>
+    
+                        </div>
+                        <div class="col-sm-4 sm-margin-b-4">
+    
+                            <div class="pricing pricing-active">
+                                <div class="margin-b-30">
+                                    <i class="pricing-icon icon-badge"></i>
+                                    <h3>Professional <span> - $</span> 149</h3>
+                                    <p>Sample text paragraph to be added here for more information</p>
+                                </div>
+                                <ul class="list-unstyled pricing-list margin-b-50">
+                                    <li class="pricing-list-item">Basic Features</li>
+                                    <li class="pricing-list-item">Up to 100 products</li>
+                                    <li class="pricing-list-item">100 Users Panels</li>
+                                </ul>
+                                <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
+                            </div>
+    
+                        </div>
+                        <div class="col-sm-4">
+    
+                            <div class="pricing">
+                                <div class="margin-b-30">
+                                    <i class="pricing-icon icon-shield"></i>
+                                    <h3>Advanced <span> - $</span> 249</h3>
+                                    <p>Sample text paragraph to be added here for more information</p>
+                                </div>
+                                <ul class="list-unstyled pricing-list margin-b-50">
+                                    <li class="pricing-list-item">Extended Features</li>
+                                    <li class="pricing-list-item">Unlimited products</li>
+                                    <li class="pricing-list-item">Unlimited Users Panels</li>
+                                </ul>
+                                <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
+                            </div>
+    
+                        </div>
+                    </div>
+    
+                </div>
             </div>
         </div>
-        <!-- End Promo Banner -->
+    
+-->
+         <!-- End Contact -->
+        <!--========== END PAGE LAYOUT ==========-->
 
-        <!-- Work -->
+ <!-- Work -->
         <div id="work">
             <div class="content-md container">
+            		<div class="row text-center margin-b-40">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <h2 style="color:#17bed2">We believe in your happiness</h2	>
+                        <p>NEAD takes pride in serving those in need. Our mission is to safely transport our patients and customers in a manner consistent with our core values of excellence in patient care, integrity, customer service and first and foremost safety</p>
+                    </div>
+                </div>
                 <!-- Masonry Grid -->
                 <div class="masonry-grid row row-space-2">
                     <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
@@ -400,27 +474,25 @@
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5" style="color:#17bed2">Sample Story Title</h3>
+                                        <span>Story subtitle</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <p>Story paragraph 1</p>
+                                                <p>Story paragraph 2</p>
                                                 <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 1,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 2,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 3</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Story Date:</strong> Date</p>
+                                                <p class="margin-b-5"><strong>Story Location:</strong> Location</p>
                                             </div>
                                         </div>
                                     </div>
@@ -429,37 +501,38 @@
                         </div>
                         <!-- End Work -->
                     </div>
+                    
+                    
+                    
                     <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 margin-b-4">
                         <!-- Work -->
                         <div class="work work-popup-trigger">
                             <div class="work-overlay">
                                 <img class="full-width img-responsive" src="img/397x400/01.jpg" alt="Portfolio Image">
                             </div>
-                            <div class="work-popup-overlay">
+                         <div class="work-popup-overlay">
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5" style="color:#17bed2">Sample Story Title</h3>
+                                        <span>Story subtitle</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <p>Story paragraph 1</p>
+                                                <p>Story paragraph 2</p>
                                                 <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 1,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 2,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 3</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Story Date:</strong> Date</p>
+                                                <p class="margin-b-5"><strong>Story Location:</strong> Location</p>
                                             </div>
                                         </div>
                                     </div>
@@ -474,31 +547,66 @@
                             <div class="work-overlay">
                                 <img class="full-width img-responsive" src="img/397x300/01.jpg" alt="Portfolio Image">
                             </div>
-                            <div class="work-popup-overlay">
+                        <div class="work-popup-overlay">
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5" style="color:#17bed2">Sample Story Title</h3>
+                                        <span>Story subtitle</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <p>Story paragraph 1</p>
+                                                <p>Story paragraph 2</p>
                                                 <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 1,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 2,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 3</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Story Date:</strong> Date</p>
+                                                <p class="margin-b-5"><strong>Story Location:</strong> Location</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 md-margin-b-4">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/397x300/04.jpg" alt="Portfolio Image">
+                            </div>
+                        <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5" style="color:#17bed2">Sample Story Title</h3>
+                                        <span>Story subtitle</span>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p>Story paragraph 1</p>
+                                                <p>Story paragraph 2</p>
+                                                <ul class="list-inline work-popup-tag">
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 1,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 2,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 3</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Story Date:</strong> Date</p>
+                                                <p class="margin-b-5"><strong>Story Location:</strong> Location</p>
                                             </div>
                                         </div>
                                     </div>
@@ -513,31 +621,29 @@
                             <div class="work-overlay">
                                 <img class="full-width img-responsive" src="img/397x300/02.jpg" alt="Portfolio Image">
                             </div>
-                            <div class="work-popup-overlay">
+                      <div class="work-popup-overlay">
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5" style="color:#17bed2">Sample Story Title</h3>
+                                        <span>Story subtitle</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <p>Story paragraph 1</p>
+                                                <p>Story paragraph 2</p>
                                                 <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 1,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 2,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 3</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Story Date:</strong> Date</p>
+                                                <p class="margin-b-5"><strong>Story Location:</strong> Location</p>
                                             </div>
                                         </div>
                                     </div>
@@ -552,31 +658,29 @@
                             <div class="work-overlay">
                                 <img class="full-width img-responsive" src="img/397x300/03.jpg" alt="Portfolio Image">
                             </div>
-                            <div class="work-popup-overlay">
+                          <div class="work-popup-overlay">
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5" style="color:#17bed2">Sample Story Title</h3>
+                                        <span>Story subtitle</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <p>Story paragraph 1</p>
+                                                <p>Story paragraph 2</p>
                                                 <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="http://keenthemes.com/">Portfolio</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 1,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 2,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Story Link 3</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Story Date:</strong> Date</p>
+                                                <p class="margin-b-5"><strong>Story Location:</strong> Location</p>
                                             </div>
                                         </div>
                                     </div>
@@ -590,75 +694,11 @@
             </div>
         </div>
         <!-- End Work -->
-
-        <!-- Pricing -->
-        <div id="pricing">
-            <div class="bg-color-sky-light">
-                <div class="content-lg container">
-                    <div class="row row-space-2">
-                        <div class="col-sm-4 sm-margin-b-4">
-                            <!-- Pricing -->
-                            <div class="pricing">
-                                <div class="margin-b-30">
-                                    <i class="pricing-icon icon-chemistry"></i>
-                                    <h3>Starter Kit <span> - $</span> 49</h3>
-                                    <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <ul class="list-unstyled pricing-list margin-b-50">
-                                    <li class="pricing-list-item">Basic Features</li>
-                                    <li class="pricing-list-item">Up to 5 products</li>
-                                    <li class="pricing-list-item">50 Users Panels</li>
-                                </ul>
-                                <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
-                            </div>
-                            <!-- End Pricing -->
-                        </div>
-                        <div class="col-sm-4 sm-margin-b-4">
-                            <!-- Pricing -->
-                            <div class="pricing pricing-active">
-                                <div class="margin-b-30">
-                                    <i class="pricing-icon icon-badge"></i>
-                                    <h3>Professional <span> - $</span> 149</h3>
-                                    <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <ul class="list-unstyled pricing-list margin-b-50">
-                                    <li class="pricing-list-item">Basic Features</li>
-                                    <li class="pricing-list-item">Up to 100 products</li>
-                                    <li class="pricing-list-item">100 Users Panels</li>
-                                </ul>
-                                <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
-                            </div>
-                            <!-- End Pricing -->
-                        </div>
-                        <div class="col-sm-4">
-                            <!-- Pricing -->
-                            <div class="pricing">
-                                <div class="margin-b-30">
-                                    <i class="pricing-icon icon-shield"></i>
-                                    <h3>Advanced <span> - $</span> 249</h3>
-                                    <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                                </div>
-                                <ul class="list-unstyled pricing-list margin-b-50">
-                                    <li class="pricing-list-item">Extended Features</li>
-                                    <li class="pricing-list-item">Unlimited products</li>
-                                    <li class="pricing-list-item">Unlimited Users Panels</li>
-                                </ul>
-                                <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Choose</a>
-                            </div>
-                            <!-- End Pricing -->
-                        </div>
-                    </div>
-                    <!--// end row -->
-                </div>
-            </div>
-        </div>
-        <!-- End Pricing -->
-
-        <!-- Testimonials -->
+<!-- Testimonials -->
         <div class="content-md container">
             <div class="row">
                 <div class="col-sm-9">
-                    <h2>Customer Reviews</h2>
+                    <h2 style="color:black;font-size:125%;">Check out what our customers have to say about us.</h2>
 
                     <!-- Swiper Testimonials -->
                     <div class="swiper-slider swiper-testimonials">
@@ -667,23 +707,23 @@
                             <div class="swiper-slide">
                                 <blockquote class="blockquote">
                                     <div class="margin-b-20">
-                                        Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua. Ut enim minim veniam exercitation laboris ut siad consequat siad minim enum esqudiat dolore.
+                                        Sample customer review paragraph 1.
                                     </div>
                                     <div class="margin-b-20">
-                                        Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret tempor incididunt dolore magna consequat siad minim aliqua.
+                                        Sample customer review paragraph 2.
                                     </div>
-                                    <p><span class="fweight-700 color-link">Joh Milner</span>, Metronic Customer</p>
+                                    <p><span class="fweight-700 color-link">Customer Name</span>, Customer Information</p>
                                 </blockquote>
                             </div>
                             <div class="swiper-slide">
                                 <blockquote class="blockquote">
                                     <div class="margin-b-20">
-                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        Sample customer review paragraph 1.
                                     </div>
                                     <div class="margin-b-20">
-                                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                        Sample customer review paragraph 2.
                                     </div>
-                                    <p><span class="fweight-700 color-link">Alex Clarson</span>, Metronic Customer</p>
+                                    <p><span class="fweight-700 color-link">Customer Name</span>, Customer Information</p>
                                 </blockquote>
                             </div>
                         </div>
@@ -697,12 +737,51 @@
             </div>
             <!--// end row -->
         </div>
-        <!-- End Testimonials -->
-            
-        
-        <!-- End Contact -->
-        <!--========== END PAGE LAYOUT ==========-->
+       
+<div class="inner contact">
+	 <div class="row text-center margin-b-40">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <h2 style="color:#17bed2">we would love to hear from you</h2	>
+                        <p>NEAD is always looking for active feedback to help improve our service and products.</p>
+                    </div>
+                </div>
+                <!-- Form Area -->
+                <div class="contact-form">
+                    <!-- Form -->
+                    <form id="contact-us" method="post" action="#">
+                        <!-- Left Inputs -->
+                        <div class="col-md-6 col-xs-12 wow animated slideInLeft" data-wow-delay=".5s">
+                            <!-- Name -->
+                            <input type="text" name="name" id="name" required="required" class="form" placeholder="Name" />
+                            <!-- Email -->
+                            <input type="email" name="mail" id="mail" required="required" class="form" placeholder="Email" />
+                            <!-- Subject -->
+                            <input type="text" name="subject" id="subject" required="required" class="form" placeholder="Subject" />
+                        </div><!-- End Left Inputs -->
+                        <!-- Right Inputs -->
+                        <div class="col-md-6 col-xs-12 wow animated slideInRight" data-wow-delay=".5s">
+                            <!-- Message -->
+                            <textarea name="message" id="message" class="form textarea"  placeholder="Message"></textarea>
+                        </div><!-- End Right Inputs -->
+                        <!-- Bottom Submit -->
+                        <div class="relative fullwidth col-xs-12">
+                            <!-- Send Button -->
+                            <button type="submit" id="submit" name="submit" class="form-btn semibold">Send Message</button> 
+                        </div><!-- End Bottom Submit -->
+                        <!-- Clear -->
+                        <div class="clear"></div>
+                    </form>
 
+                    <!-- Your Mail Message -->
+                    <div class="mail-message-area">
+                        <!-- Message -->
+                        <div class="alert gray-bg mail-message not-visible-message">
+                            <strong>Thank You !</strong> Your email has been delivered.
+                        </div>
+                    </div>
+
+                </div><!-- End Contact Form Area -->
+            </div><!-- End Inner -->
         <!--========== FOOTER ==========-->
         <footer class="footer">
             <!-- Links -->
@@ -716,10 +795,10 @@
                         <div class="col-md-1 col-xs-3 sm-margin-b-30">
                     	        <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Home</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">About</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Work</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Contact</a></li>
+                                <li class="footer-list-item"><a href="#">Home</a></li>
+                                <li class="footer-list-item"><a href="#">About</a></li>
+                                <li class="footer-list-item"><a href="#">Work</a></li>
+                                <li class="footer-list-item"><a href="#">Contact</a></li>
                             </ul>
                             <!-- End List -->
                         </div>
@@ -727,20 +806,20 @@
                         <div class="col-md-1 col-xs-3 sm-margin-b-30">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Twitter</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Facebook</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Instagram</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">YouTube</a></li>
+                                <li class="footer-list-item"><a href="#">Twitter</a></li>
+                                <li class="footer-list-item"><a href="#">Facebook</a></li>
+                                <li class="footer-list-item"><a href="#">Instagram</a></li>
+                                <li class="footer-list-item"><a href="#">YouTube</a></li>
                             </ul>
                             <!-- End List -->
                         </div>
                         <div class="col-md-2">	</div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 hidden-xs">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Subscribe to Our Newsletter</a></li>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Privacy Policy</a></li><br>
-                                <li class="footer-list-item"><a href="http://keenthemes.com/">Terms &amp; Conditions</a></li>
+                                <li class="footer-list-item"><a href="#">Subscribe to Our Newsletter</a></li>
+                                <li class="footer-list-item"><a href="#">Privacy Policy</a></li><br>
+                                <li class="footer-list-item"><a href="#">Terms &amp; Conditions</a></li>
                             </ul>
                             <!-- End List -->
                         </div>

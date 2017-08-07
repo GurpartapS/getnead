@@ -39,8 +39,15 @@ $(document).ready(function () {
 					$(".headerTop").hide();
         }
         else{
-        	$(".socialTop").hide();
-					$(".headerTop").hide();
+        	$(".socialTop").show();
+					$(".headerTop").show();
         }
     });
+    
+    $(".service").hover(function(){
+    	$(this).addClass("selected");
+    	$(".service").addClass("bg-color-base wow fadeInDown");
+    },function(){
+    	$(this).removeClass("selected");
+    	    });
 });

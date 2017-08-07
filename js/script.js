@@ -43,4 +43,11 @@ $(document).ready(function () {
 					$(".headerTop").show();
         }
     });
+    
+    $(".service").hover(function(){
+    	$(this).addClass("selected");
+    	
+    },function(){
+    	$(this).removeClass("selected");
+    	    });
 });

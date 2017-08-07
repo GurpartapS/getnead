@@ -584,6 +584,10 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
   	[Footer]
 ------------------------------------------------------------------*/
+.footer{
+	margin-top:50%;	
+}
+
 .footer .footer-logo {
   width: 100px;
   height: auto;
@@ -874,6 +878,7 @@ fieldset[disabled] .btn-theme {
     padding-left: 15px;
     padding-right: 15px;
     margin-left: 0;
+    margin-top:-10%;
     margin-right: 0;
   }
   .header .navbar > .container {
