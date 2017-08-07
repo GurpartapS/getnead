@@ -8,7 +8,7 @@
 
 .quoteFormContainer .frame {
   height: 100%;
-  width: 430px;
+  width: 420px;
   background:rgba(169,169,169,0.8);
   background-size: cover;
   margin-left: auto;
@@ -63,7 +63,7 @@ li {
   padding-bottom: 10px;
   color: #ffffff;
   text-decoration: none;
-  border-bottom: solid 2px #1059FF;
+  border-bottom: solid 2px none;
   transition: all .25s ease;
   cursor: pointer;
 }
@@ -80,7 +80,7 @@ li {
   cursor: pointer;
   color: #ffffff;
   text-decoration: none;
-  border-bottom: solid 2px #1059FF;
+  border-bottom: solid 2px none;
   padding-bottom: 10px;
 }
 
@@ -98,7 +98,8 @@ li {
 	font-weight: 300;
   padding-left: 37px;
   padding-right: 37px;
-  padding-top: 55px;
+  padding-top: 0px;
+  margin-bottom:-15%;
   transition: opacity .5s ease, transform .5s ease;
 }
 
@@ -308,17 +309,19 @@ label {
 	border: none;
 	border-radius: 20px;
   margin-top: 23px;
-  background-color: #1059FF;
+  
 }
 
 .btn-signin {
   float: left;
   padding-top: 8px;
-  width: 100%;
+  width: 60%;
+  margin-left:20%;
   height: 35px;
 	border: none;
 	border-radius: 20px;
   margin-top: -8px;
+  font-size:125%;
 }
 
 .btn-animate {
@@ -334,7 +337,6 @@ label {
 	border: none;
 	border-radius: 20px;
   margin-top: 23px;
-  background-color: rgba(16,89,255, 1);
   left: 0px;
   top: 0px;
   transition: all .5s ease, top .5s ease .5s, height .5s ease .5s, background-color .5s ease .75s; 
@@ -459,9 +461,9 @@ h1 {
   text-transform: uppercase;
   font-size: 13px;
   text-align: center;
-  color: #1059FF;
+  color: none;
   margin-top: -8px;
-  border: solid 1px #1059FF;
+  border: solid 1px none;
   opacity: 0;
   transition: top 1.5s ease 0.35s, opacity .75s ease .5s;
 }
@@ -500,9 +502,30 @@ a.btn-goback:hover {
 
 .refreshicon:hover {
   cursor: pointer;
-  fill: #1059FF;
+  fill: none;
   transform: rotate(180deg);
 }
+
+@media (max-width: 760px) {
+
+.quoteFormContainer {
+	margin-top:-15%;
+}
+
+
+.form-signin {
+  width: 100%;
+  height: 50%;
+	font-size: 16px;
+	font-weight: 300;
+  padding-left: 37px;
+  padding-right: 37px;
+  padding-top: 0px;
+  margin-bottom:-15%;  
+  transition: opacity .5s ease, transform .5s ease;
+}
+}
+
 @media (max-width: 480px) {
 
 .quoteFormContainer {
@@ -558,7 +581,7 @@ a.btn-goback:hover {
 .btn-signin {
   float: left;
   padding-top: 8px;
-  width: 100%;
+  width: 60%;
   height: 35px;
 	border: none;
 	border-radius: 20px;
