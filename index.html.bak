@@ -78,10 +78,10 @@
 
         <!--========== SLIDER ==========-->
         <div class="promo-block" >
-        	<div class="row" style="height:350px;margin-top:-7%;">
-        			<div class="col-md-7"></div>
+        	<div class="row" style="height:400px;margin-top:-7%;">
+        			<div class="col-md-7 col-sm-2"></div>
         			
-										<div class="col-md-4" >
+										<div class="col-md-4 col-sm-8" >
 	                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
 <div class="quoteFormContainer">
@@ -150,7 +150,7 @@
                     
             </div>-->
         </div>
-        <div class="col-md-1"></div>
+        <div class="col-md-1 col-sm-2"></div>
         <!--========== SLIDER ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
