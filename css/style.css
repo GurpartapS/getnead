@@ -7,8 +7,6 @@
 }
 
 .quoteFormContainer .frame {
-  height: 550px;
-  width: 430px;
   background:rgba(169,169,169,0.8);
   background-size: cover;
   margin-left: auto;

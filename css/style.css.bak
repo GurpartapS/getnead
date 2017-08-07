@@ -169,7 +169,7 @@ li {
 
 .form-signin input, .form-signup input {
   color: #ffffff;
-  background: rgba(255,255,255,.8);
+  background: rgba(255,255,255,.6);
   font-size: 13px;
 }
 
