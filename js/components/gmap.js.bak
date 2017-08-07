@@ -30,6 +30,7 @@ window.initMap = function() {
 
   var customMapTypeId = 'custom_style';
 
+  var brooklyn = {lat: 43.7315, lng: 9.7624};
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 6,
     scrollwheel: false,

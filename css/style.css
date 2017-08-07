@@ -2,6 +2,7 @@
 
 .quoteFormContainer {
   width: 100%;
+  margin-top:5%;
   padding-bottom: 100px;
   
 }
@@ -18,6 +19,7 @@
   box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
   overflow: hidden;
   transition: all .5s ease;
+  margin-top:8%;
 }
 
 .quoteFormContainer .frame-long {
@@ -39,7 +41,7 @@
 .quoteFormContainer .nav {
   width: 100%;
   height: 100%;
-  padding-top: 40px;sign
+  padding-top: 40px;
   opacity: 1;
   transition: all .5s ease;
 }
@@ -48,6 +50,8 @@
   transform: translateY(-100px);
   opacity: 0;
 }
+
+
 
 li {
   padding-left: 10px;
@@ -90,6 +94,39 @@ li {
   text-decoration: none;
   transition: all .25s ease;
 }
+
+
+.headerTop i{
+	color:#17bed2;
+	float:right; 
+	margin-right:10px;
+	margin-top:10px;
+}
+.headerTop .fa{
+	color:#17bed2;
+	float:right; 
+	margin-right:10px;
+	margin-top:6px;
+}
+.headerTop p{
+	font-size:100%;
+	float:right;
+	color:#17bed2;
+	font-weight:bold;
+	margin-top:8px;
+}
+.headerTop .btn-signin{
+	float:right;
+	margin:0px;
+	margin-left:20px;
+	width:120px;
+	height:27px;
+	padding-top:5px;
+	font-size:100%;
+	color:white;
+	background-color:#17bed2;
+}
+
 
 .form-signin {
   width: 100%;
@@ -438,6 +475,7 @@ a.btn-signup:hover, a.btn-signin:hover {
   top: -636px;
   opacity: 1;
 }
+.headerTop{height:60px;background:white;padding:1%;}
 
 h1 {
   color: #ffffff;
@@ -506,6 +544,14 @@ a.btn-goback:hover {
   transform: rotate(180deg);
 }
 
+.socialTop li{
+	color:#17bed2;
+	float:right;
+	padding-right:50px;
+	padding-left:50px;
+}
+
+
 @media (max-width: 760px) {
 
 .quoteFormContainer {
@@ -523,7 +569,10 @@ a.btn-goback:hover {
   padding-top: 0px;
   margin-bottom:-15%;  
   transition: opacity .5s ease, transform .5s ease;
+  
 }
+
+
 }
 
 @media (max-width: 480px) {
@@ -560,7 +609,7 @@ a.btn-goback:hover {
 .quoteFormContainer .nav {
   width: 100%;
   height: 100%;
-  padding-top: 20px;
+  padding-top: 0px;
   opacity: 1;
   transition: all .5s ease;
 }
@@ -586,6 +635,37 @@ a.btn-goback:hover {
 	border: none;
 	border-radius: 20px;
 }
+.headerTop .fa{
+	color:#17bed2;
+	float:right; 
+	margin-right:10px;
+	margin-top:10px;
+}
 
+.headerTop p{
+	font-size:90%;
+	float:right;
+	color:#17bed2;
+	font-weight:bold;
+	margin-top:12px;
+}
+.headerTop .btn-signin{
+	float:right;
+	margin-top:6px;
+	margin-right:40px;
+	margin-left:20px;
+	width:125px;
+	height:24px;
+	padding-top:5px;
+	font-size:90%;
+	color:white;
+	background-color:#17bed2;
+}
+.headerTop{
+	visibility:hidden;
+	display:none;
+	height:25px;
+	background:none;
+}
 
 }

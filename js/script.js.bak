@@ -39,8 +39,8 @@ $(document).ready(function () {
 					$(".headerTop").hide();
         }
         else{
-        	$(".socialTop").show();
-					$(".headerTop").show();
+        	$(".socialTop").hide();
+					$(".headerTop").hide();
         }
     });
 });

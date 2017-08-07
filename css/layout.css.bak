@@ -30,6 +30,15 @@ li a {
   font-family: Hind, sans-serif;
   color: #515769;
 }
+/* Navbar Toggle */
+.header .navbar-toggle {
+  width: 25px;
+  height: 25px;
+  border: none;
+  padding: 0px;
+  margin: 35px 0;
+
+}
 
 a {
   font-family: Hind, sans-serif;
@@ -598,7 +607,7 @@ fieldset[disabled] .btn-theme {
   	[Header]
 ------------------------------------------------------------------*/
 .headerTop{
-	height:25%;
+	height:50px;
 	margin-bottom:50%;
 	background:none;
 }
@@ -624,7 +633,7 @@ fieldset[disabled] .btn-theme {
   width: 25px;
   height: 25px;
   border: none;
-  padding: 0;
+  padding: 0px;
   margin: 35px 0;
 
 }
@@ -800,7 +809,9 @@ fieldset[disabled] .btn-theme {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
-
+.page-on-scroll-header{
+		background:red;
+	}
 
 /* Media Queries below 991px */
 @media (max-width: 991px) {
@@ -890,6 +901,7 @@ fieldset[disabled] .btn-theme {
 
 /* Page On Scroll */
 @media (min-width: 992px) {
+	
   .page-on-scroll .header .navbar {
     background: #fff;
     border-bottom-color: #f0f0f0;
@@ -1485,26 +1497,6 @@ fieldset[disabled] .btn-theme {
     [Top margin below 480px]
 ------------------------------------------------------------------*/
 @media (max-width: 480px) {
-
-.quoteFormContainer .frame {
-  height: 100%;
-  width: 100%;
-  background:rgba(169,169,169,0.8);
-  background-size: cover;
-  margin-left: auto;
-  margin-right: auto;
-  border-top: solid 1px rgba(255,255,255,.5);
-  border-radius: 5px;
-  box-shadow: 0px 2px 7px rgba(0,0,0,0.2);
-  overflow: hidden;
-  transition: all .5s ease;
-}
-
-.quoteFormContainer p{
-	color:white;
-	font-size:25%;
-	font-weight:bold;
-}
   .xs-margin-b-0 {
     margin-bottom: 0 !important;
   }
