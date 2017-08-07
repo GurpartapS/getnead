@@ -79,9 +79,9 @@
         <!--========== SLIDER ==========-->
         <div class="promo-block" >
         	<div class="row" style="height:400px;margin-top:-7%;">
-        			<div class="col-md-7 col-xs-4"></div>
+        			<div class="col-md-7 col-sm-4"></div>
         			
-										<div class="col-md-4 col-xs-4" >
+										<div class="col-md-4 col-sm-4" >
 	                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
 <div class="quoteFormContainer">
@@ -150,7 +150,7 @@
                     
             </div>-->
         </div>
-        <div class="col-md-1 col-xs-8"></div>
+        <div class="col-md-1 col-sm-4"></div>
         <!--========== SLIDER ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
