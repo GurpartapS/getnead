@@ -15,7 +15,6 @@
         <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css"/>
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 
-				<link href="css/style.css" rel="stylesheet">
 
         <!-- PAGE LEVEL PLUGIN STYLES -->
         <link href="css/animate.css" rel="stylesheet">
@@ -79,9 +78,9 @@
         <!--========== SLIDER ==========-->
         <div class="promo-block" >
         	<div class="row" style="height:400px;margin-top:-7%;">
-        			<div class="col-md-7 col-sm-4"></div>
+        			<div class="col-md-7 col-sm-1"></div>
         			
-										<div class="col-md-4 col-sm-4" >
+										<div class="col-md-4 col-sm-9" >
 	                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
 <div class="quoteFormContainer">
@@ -150,7 +149,7 @@
                     
             </div>-->
         </div>
-        <div class="col-md-1 col-sm-4"></div>
+        <div class="col-md-1 col-sm-1"></div>
         <!--========== SLIDER ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
