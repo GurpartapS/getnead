@@ -698,6 +698,15 @@ a.btn-goback:hover {
 
 
 @media (max-width: 760px) {
+.contact{
+	margin:2%;
+	margin-top:3%;
+	margin-bottom:60%;
+}
+.contact input{
+	height:20px;
+	float:right;
+}
 
 .quoteFormContainer {
 	margin-top:-15%;
