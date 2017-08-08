@@ -9,7 +9,7 @@
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="" name="description"/>
         <meta content="" name="author"/>
-
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
         <!-- GLOBAL MANDATORY STYLES -->
         <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
         <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css"/>
@@ -92,10 +92,10 @@
 
         <!--========== SLIDER ==========-->
         <div class="promo-block" >
-        	<div class="row" style="height:420px;margin-top:-7%;">
+        	<div class="row" >
         			<div class="col-md-7 col-xs-1"></div>
         			
-										<div class="col-md-4 col-xs-10" >
+										<div class="col-md-3 col-xs-10" >
 	                    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
 
 <div class="quoteFormContainer">
@@ -115,14 +115,14 @@
 					<!--<label for="password">Password</label>-->
           <input class="form-styling" type="text" name="password" placeholder="Email Address"/>
           <!--<label for="password">Password</label>-->
-          <input class="form-styling" type="text" name="password" placeholder="Phone Number"/>	
+          <input class="form-styling" type="text" name="password" placeholder="Pickup Location"/>	
           <!-- <label for="username">Username</label>-->
-          <input class="form-styling" type="text" name="username" placeholder="First Name"/>
+          <input class="form-styling" type="text" name="username" placeholder="Drop Off Location"/>
           <!--<label for="password">Password</label>-->
-          <input class="form-styling" type="text" name="password" placeholder="Last Name"/>
-          <div class="btn-animate">
-            <a class="btn-signin" style="color:white;background:#17bed2;">Request Now</a>
-          </div>
+          <textarea class="form-styling" type="text" name="password" placeholder="Additional Information"></textarea>
+          
+            <a class="btn-signin" style="color:white;background:#17bed2;font-size:105%;">Request Now</a>
+          
       
             <div  class="success">
               <svg width="270" height="270" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -160,7 +160,7 @@
                     
             </div>-->
         </div>
-        <div class="col-md-1"></div>
+        <div class="col-xs-1"></div>
         <!--========== SLIDER ==========-->
 
         <!--========== PAGE LAYOUT ==========-->
@@ -816,8 +816,8 @@
                             </ul>
                             <!-- End List -->
                         </div>
-                        <div class="col-md-2">	</div>
-                        <div class="col-md-3 hidden-xs">
+                        <div class="col-md-2 hidden-xs">	</div>
+                        <div class="col-md-3 hidden-sm">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
                                 <li class="footer-list-item"><a href="#">Subscribe to Our Newsletter</a></li>
