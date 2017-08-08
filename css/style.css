@@ -166,7 +166,7 @@ input {
 .quoteFormContainer .frame {
   height: 100%;
   width: 420px;
-  background:rgba(169,169,169,0.8);
+  background:rgba(23,190,210,0.9);
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
@@ -372,8 +372,8 @@ li {
 }
 
 .form-signin input,.form-signin textarea, .form-signup input {
-  color: #ffffff;
-  background: rgba(255,255,255,.6);
+  color: black;
+  background: #ffffff;
   font-size: 13px;
 }
 .form-signin textarea{
@@ -794,7 +794,6 @@ a.btn-goback:hover {
 .quoteFormContainer .frame {
   height: 100%;
   width: 100%;
-  background:rgba(169,169,169,0.8);
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
@@ -839,6 +838,7 @@ a.btn-goback:hover {
 
 .btn-signin {
   float: left;
+  margin-top:5%;
   padding-top: 8px;
   width: 60%;
   height: 35px;

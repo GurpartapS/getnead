@@ -102,7 +102,7 @@
   <div class="frame">
     <div class="nav">
       
-        <p style="font-size:200%;padding-top:1%;padding-bottom:5%;">Request a Quote</p>
+        <p>Request a Quote</p>
        
       
     </div>
@@ -121,7 +121,7 @@
           <!--<label for="password">Password</label>-->
           <textarea class="form-styling" type="text" name="password" placeholder="Additional Information"></textarea>
           
-            <a class="btn-signin" style="color:white;background:#17bed2;font-size:105%;">Request Now</a>
+            <a class="btn-signin" style="color:#17bed2;background:#ffffff;font-size:105%;">Request Now</a>
           
       
             <div  class="success">
