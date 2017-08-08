@@ -717,12 +717,15 @@ a.btn-goback:hover {
 }
 #products i{
 	margin:auto;
-	font-size:75px;
+	font-size:60px;
 	color:#17bed2;
 }
 #products .col-sm-4{
 	
 	text-align:center;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: lightgrey;
 }
 @media (max-width: 760px) {
 	.promo-block .row{
@@ -839,7 +842,7 @@ a.btn-goback:hover {
 .btn-signin {
   float: left;
   margin-top:5%;
-  padding-top: 8px;
+  padding-top: 6px;
   width: 60%;
   height: 35px;
   font-size:125%;

@@ -121,7 +121,7 @@
           <!--<label for="password">Password</label>-->
           <textarea class="form-styling" type="text" name="password" placeholder="Additional Information"></textarea>
           
-            <a class="btn-signin" style="color:#17bed2;background:#ffffff;font-size:105%;">Request Now</a>
+            <a class="btn-signin" style="color:#17bed2;font-weight:bold;background:#ffffff;font-size:105%;">Request Now</a>
           
       
             <div  class="success">

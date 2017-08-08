@@ -724,6 +724,9 @@ a.btn-goback:hover {
 	
 	text-align:center;
 }
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: lightgrey;
+}
 @media (max-width: 760px) {
 	.promo-block .row{
 	height:350px;
@@ -838,7 +841,8 @@ a.btn-goback:hover {
 
 .btn-signin {
   float: left;
-  padding-top: 10px;
+  margin-top:5%;
+  padding-top: 6px;
   width: 60%;
   height: 35px;
   font-size:125%;
