@@ -1,3 +1,9 @@
+
+.contact-form input:focus{
+	  background: rgba(255,255,255,.9);
+    
+    transition: background .5s ease;
+}
 .promo-block .row{
 	height:420px;
 	margin-top:-7%;
@@ -295,6 +301,10 @@ li {
   opacity: .0;
 }
 
+.quoteFormContainer p{
+	font-size:200%;padding-top:1%;padding-bottom:5%;
+}
+
 .form-signup {
   width: 430px;
   height: 300px;
@@ -396,7 +406,7 @@ label {
 }
 
 .form-signin input:focus, textarea:focus, .form-signup input:focus, textarea:focus {
-    background: rgba(255,255,255,.1);
+    background: rgba(255,255,255,.9);
     
     border: none; 
     padding-right: 40px;
@@ -705,7 +715,11 @@ a.btn-goback:hover {
 	padding-right:50px;
 	padding-left:50px;
 }
-
+ i{
+	margin:auto;
+	font-size:75px;
+	color:#17bed2;
+}
 
 @media (max-width: 760px) {
 	.promo-block .row{
@@ -745,6 +759,9 @@ a.btn-goback:hover {
 }
 
 @media (max-width: 480px) {
+	.quoteFormContainer p{
+	font-size:660%;padding-top:10%;padding-bottom:5%;
+}
 	.promo-block .row{
 	height:320px;
 	margin-top:-7%;
@@ -887,9 +904,7 @@ and (orientation : landscape) {
 @media only screen 
 and (min-device-width : 1024px) 
 and (max-device-width : 1366px) { 
-	.form-signin{
-		margin-right:500px;
-	}
+	
 .contact{
 	margin-bottom:20%;
 }	
