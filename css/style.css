@@ -720,7 +720,10 @@ a.btn-goback:hover {
 	font-size:75px;
 	color:#17bed2;
 }
-
+#products .col-sm-4{
+	
+	text-align:center;
+}
 @media (max-width: 760px) {
 	.promo-block .row{
 	height:350px;
@@ -759,6 +762,11 @@ a.btn-goback:hover {
 }
 
 @media (max-width: 480px) {
+	#products .col-sm-4{
+	margin:10%;
+	margin-bottom:5%;
+	text-align:center;
+}
 	.quoteFormContainer p{
 	font-size:660%;padding-top:10%;padding-bottom:5%;
 }
